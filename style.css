@@ -1,0 +1,324 @@
+body{
+    background-color: burlywood;
+}
+
+.r1{
+    background-color: chocolate;
+    position: sticky;top:0px;
+}
+
+.r1 h1{
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.r1 h1:hover{
+    color: burlywood;
+}
+
+.r1 h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+
+.r1 h2:hover{
+    color: burlywood;
+}
+
+.r2{
+    background-color: burlywood;
+
+}
+
+.r2 h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 50px;
+
+
+}
+
+.r2 h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.r2 b{
+    color: brown;
+}
+
+
+
+.r2 p{
+    border: 2px solid black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding: 30px;
+}
+
+.r3{
+    background-color: burlywood;
+    padding: 20px;
+
+}
+
+.r3 h1{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Mynerve', cursive;
+
+}
+
+.r3 p{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+
+
+}
+
+
+.r3 li{
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+    padding: 10px;
+
+
+}
+
+.r4{
+    background-color: burlywood;
+
+}
+
+.r4 h1{
+    font-family: 'Mynerve', cursive;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 30px;
+}
+
+.c1{
+    display: flex;
+}
+
+.c2{
+    display: flex;
+}
+
+.c3{
+    display: flex;
+}
+
+.c4{
+    display: flex;
+}
+
+.c5{
+    display: flex;
+}
+
+
+
+.c6{
+    padding-left: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c7{
+    padding-right: 600px;
+    padding-left: 10px;
+}
+
+.c8{
+    padding-left: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c9{
+    padding-right: 600px;
+    padding-left: 10px;
+}
+
+.c10{
+    padding-left: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c11{
+    padding-right: 600px;
+    padding-left: 10px;
+}
+
+.c12{
+    padding-left: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c13{
+    padding-right: 600px;
+    padding-left: 10px;
+}
+
+.c14{
+    padding-left: 600px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.c15{
+    padding-right: 600px;
+    padding-left: 10px;
+}
+
+.col p{
+    text-align: justify;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.col h2{
+    text-align: center;
+}
+
+.col{
+    padding: 20px;
+}
+
+.r5{
+    background-color: chocolate;
+}
+
+.c16{
+
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Mynerve', cursive;
+    background-color: burlywood;
+
+}
+
+.c17 img{
+    padding: 20px;
+    height: 390px;
+    width: 560px;
+}
+
+.c17 img:hover{
+    width: 580px;
+    height: 410px;
+}
+
+.r6{
+    background-color: blanchedalmond;
+    padding-left: 350px;
+    padding-right: 350px;
+}
+
+.r6 h2{
+    font-family: 'Mynerve', cursive;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 20px;
+
+}
+
+.r6 ul{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: chocolate;
+    
+}
+
+.r6 li{
+    text-align: center;
+    padding: 20px;
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.r7{
+    background-color: chocolate;
+    display: flex;
+}
+
+.c18{
+    width: 40%;
+}
+
+.c18 i{
+    font-size: 250px;
+    padding-left: 200px;
+    padding-top: 75px;
+
+}
+
+.c19{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.c19 h1{
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.c19 ul{
+    list-style: none;
+    padding-top: 30px;
+    padding-left: 0px;
+}
+
+.c19 li{
+    float: left;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+
+
+}
+
+.c19 p{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 70px;
+
+}
+
+.c20{
+    padding-left: 300px;
+}
+
+.c20 h4{
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+.c19 p{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+
+}
